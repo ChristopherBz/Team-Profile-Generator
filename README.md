@@ -10,6 +10,7 @@ A Node.js command-line application that takes in information about employees on 
 - [License](#license)
 - [Tests](#Tests)
 - [Questions](#Contact-Information)
+![image](https://user-images.githubusercontent.com/81110745/128621585-1756aae9-dc5b-4060-adbc-cce78ba7a406.png)
 
 ### User-Story
 
