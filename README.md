@@ -3,13 +3,15 @@
 ## Description
   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")  
 A Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Testing files are  included but you will need the [Inquirer package](https://www.npmjs.com/package/inquirer).
+https://github.com/ChristopherBz/Team-Profile-Generator/blob/12ddeaf46d929338557a420be8f4742821dceb9f/TeamProfileExplainer.mp4
 
 ## Table of Contents
 - [User Story](#User-Story)
 - [Installation](#installation)
 - [License](#license)
 - [Tests](#Tests)
-- [Questions](#Contact-Information)
+- [Questions](#Contact-Information)  
+
 ![image](https://user-images.githubusercontent.com/81110745/128621585-1756aae9-dc5b-4060-adbc-cce78ba7a406.png)
 
 ### User-Story
